@@ -1,4 +1,4 @@
-defmodule ContexPointPlotTest do
+defmodule ContexLinePlotTest do
   use ExUnit.Case
 
   alias Contex.{CategoryColourScale, Dataset, LinePlot, Plot}
